@@ -43,6 +43,7 @@ def divisible():
 divisible()
 print("divisible list:",l2)
 print("not divisible list:",l3)
+print(f"divisible list: {l2}") #f string 
 
 
 
