@@ -18,6 +18,7 @@ function_name(a,b) #function call
 
 #return 
 def func1(c,d):
+    """ this function add two values""" #for doc string
     sum = c+d
     sub = c-d
     return sum, sub
@@ -34,6 +35,7 @@ l2 = []
 l3 = []
 
 def divisible():
+
     a = int(input("enter the number to divide: "))
     for i in l1:
         if i%a==0:
