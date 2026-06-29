@@ -21,5 +21,5 @@ def operation (a,b):
     else:
         print("invalid operator")
 
-result = operation(a,b)
-print(result)
+result = operation
+print(result(a,b))
