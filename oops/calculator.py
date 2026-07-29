@@ -33,4 +33,4 @@ elif( op == "/"):
     result = c.div()
 
 
-print(f"result: {result}")
+print("result:",result)
